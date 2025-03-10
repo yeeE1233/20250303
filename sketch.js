@@ -73,6 +73,6 @@ function goToLink() {
   } else if (selected === '教科系') {
     iframe.attribute('src', 'https://www.et.tku.edu.tw');
   } else if (selected === '第三周') {
-    iframe.attribute('src', 'https://hackmd.io/@cfchen/H15O7KGske');
+    iframe.attribute('src', 'https://yeee1233.github.io/20250310/');
   }
 }
